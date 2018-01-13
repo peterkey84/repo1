@@ -1,2 +1,3 @@
 Witam
 nowe zmiany sa w tym pliku
+trzecia linijka
