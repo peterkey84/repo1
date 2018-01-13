@@ -4,5 +4,10 @@ trzecia linijka
 cztery
 
 
-bledy zamierzone
+zmiana nr 1
 
+zmiana nr 2
+
+nowy branch
+
+nowa branch 1
